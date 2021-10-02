@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "id": 39495029522518,
+      "properties": {
+        
+      },
+      "quantity": 2,
+      "variant_id": 39495029522518,
+      "key": "39495029522518:be549e95d80b620fd502bd80d79bac41",
+      "title": "OXFORD SCARABEUS MONO CHUMBO - CINZA",
+      "price": 31900,
+      "original_price": 31900,
+      "discounted_price": 31900,
+      "line_price": 63800,
+      "original_line_price": 63800,
+      "total_discount": 0,
+      "sku": "1088_28_211_45", 
+      "grams": 0,
+      "vendor": "INSECTA",
+      "taxable": true,
+      "product_id": 4266509697110,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 31900,
+      "final_line_price": 63800,
+      "url": "/products/mono-chumbo-oxford?variant=39495029522518",
+      "featured_image": {
+        "aspect_ratio": 1.0,
+        "alt": "MONO CHUMBO OXFORD - Insecta Shoes",
+        "height": 1414,
+        "url": "https://cdn.shopify.com/s/files/1/0249/0220/5526/products/mono_chumbo_oxford_2.jpg?v=1572720018",
+        "width": 1414
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0249/0220/5526/products/mono_chumbo_oxford_2.jpg?v=1572720018",
+      "handle": "mono-chumbo-oxford",
+      "requires_shipping": true,
+      "product_type": "CALÇADOS",
+      "product_title": "OXFORD SCARABEUS MONO CHUMBO",
+      "product_description": "\n>>Clássico Oxford em tecido feito de garrafas PET recicladas + algodão reciclado, confortável e liso pra não ter a desculpa de que não combina. \n\nNossas formas e numerações seguem o padrão do mercado, ou seja, se você calça sempre 35, nosso 35 vai lhe servir com certeza.\n\n\n\nFrete grátis nas compras acima de R$ 349 para todo o Brasil. 1ª troca grátis. Parcelamento em até 06x sem juros.\n\n\nPeso: 0,750kg\n",
+      "variant_title": "CINZA / 45 / MONO CHUMBO",
+      "variant_options": [
+        "CINZA",
+        "45",
+        "MONO CHUMBO"
+      ],
+      "options_with_values": [
+        {
+          "name": "Cor",
+          "value": "CINZA"
+        },
+        {
+          "name": "Tamanho",
+          "value": "45"
+        },
+        {
+          "name": "Estampa",
+          "value": "MONO CHUMBO"
+        }
+      ],
+      "line_level_discount_allocations": [
+        
+      ],
+      "line_level_total_discount": 0
+    },
+    {
+      "id": 39486779818070,
+      "properties": {
+        
+      },
+      "quantity": 4,
+      "variant_id": 39486779818070,
+      "key": "39486779818070:0b910a129d56c253360258cf65ffffe0",
+      "title": "MOCHILA CLÁSSICA PLANETAS - AZUL MARINHO / U / PLANETAS",
+      "price": 29900,
+      "original_price": 29900,
+      "discounted_price": 29900,
+      "line_price": 119600,
+      "original_line_price": 119600,
+      "total_discount": 0,
+      "discounts": [
+        
+      ],
+      "sku": "213_4_3_U",
+      "grams": 0,
+      "vendor": "INSECTA",
+      "taxable": true,
+      "product_id": 4835051274326,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 29900,
+      "final_line_price": 119600,
+      "url": "/products/planetas-mochila-vegana?variant=39486779818070",
+      "featured_image": {
+        "aspect_ratio": 1.0,
+        "alt": "MOCHILA CLÁSSICA PLANETAS",
+        "height": 3179,
+        "url": "https://cdn.shopify.com/s/files/1/0249/0220/5526/products/PlanetasMochila_1.jpg?v=1596718257",
+        "width": 3179
+      },
+      "image": "https://cdn.shopify.com/s/files/1/0249/0220/5526/products/PlanetasMochila_1.jpg?v=1596718257",
+      "handle": "planetas-mochila-vegana",
+      "requires_shipping": true,
+      "product_type": "ACESSÓRIOS",
+      "product_title": "MOCHILA CLÁSSICA PLANETAS",
+      "product_description": ">> Um modelo prático para dia a dia, com tamanho suficiente para notebook. Com alça de tecido que não escorrega, bolsos laterais com elástico e reforço extra no tecido PET.\r\n\r\n\r\nToda feita a mão & ecológica\r\n\r\n\r\nBolso interno com capacidade para comportar um notebook de até 14'' e frontal duplo\r\n\r\n\r\nDimensões: Altura 42 cm Largura 30 cm Profundidade 30 cm\r\n\r\n\r\nPra quem precisa daquele espaço extra, nossa bolsinha acopla na mochila (assista ao vídeo abaixo). Os itens são vendidos separadamente. \r\n\r\n\r\nNa compra de uma mochila e uma bolsinha, você ganha 10% off. Insira o código \"combomochila\" no carrinho para aplicar o desconto.\r\n\r\n\r\nPeso: 0,500kg\r\n\r\n\r\n\r\nFrete grátis nas compras acima de R$ 349 para todo o Brasil. 1ª troca grátis. Parcelamento em até 10x sem juros.",
+      "variant_title": "AZUL MARINHO / U / PLANETAS",
+      "variant_options": [
+        "AZUL MARINHO",
+        "U",
+        "PLANETAS"
+      ],
+      "options_with_values": [
+        {
+          "name": "Cor",
+          "value": "AZUL MARINHO"
+        },
+        {
+          "name": "Tamanho",
+          "value": "U"
+        },
+        {
+          "name": "Estampa",
+          "value": "PLANETAS"
+        }
+      ],
+      "line_level_discount_allocations": [
+        
+      ],
+      "line_level_total_discount": 0
+    }
+  ]
+}
